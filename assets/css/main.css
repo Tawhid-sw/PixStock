@@ -33,3 +33,8 @@ li , a {
 }
 
 /* == NAVBAR == */
+.d-fr{
+    display: flex;
+    justify-content: space-between;
+    
+}
